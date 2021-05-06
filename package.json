@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/bramell/testing-with-jest/issues"
   },
-  "homepage": "https://github.com/bramell/testing-with-jest#readme"
+  "homepage": "https://github.com/bramell/testing-with-jest#readme",
+  "dependencies": {
+    "underscore": "^1.13.1"
+  }
 }
