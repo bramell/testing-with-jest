@@ -1,0 +1,22 @@
+{
+  "name": "testing-with-jest",
+  "version": "1.0.0",
+  "description": "Testar jest ",
+  "main": "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[D(\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bramell/testing-with-jest.git"
+  },
+  "author": "Fredrik Bramell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bramell/testing-with-jest/issues"
+  },
+  "homepage": "https://github.com/bramell/testing-with-jest#readme"
+}
