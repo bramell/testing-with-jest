@@ -1,11 +1,17 @@
 {
   "name": "testing-with-jest",
   "version": "1.0.0",
-  "description": "Testar jest ",
-  "main": "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[D(\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C",
+  "description": "A Jest + npm lab session",
+  "main": "index.js",
   "directories": {
     "test": "tests"
   },
+  "dependencies": {
+    "underscore": "^1.13.1",
+    "webpack-cli": "^4.6.0",
+    "webpack": "^5.36.2"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "jest tests"
   },
@@ -18,8 +24,5 @@
   "bugs": {
     "url": "https://github.com/bramell/testing-with-jest/issues"
   },
-  "homepage": "https://github.com/bramell/testing-with-jest#readme",
-  "dependencies": {
-    "underscore": "^1.13.1"
-  }
+  "homepage": "https://github.com/bramell/testing-with-jest#readme"
 }
