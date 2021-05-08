@@ -22,5 +22,5 @@ afterAll(async() => {
 // Själva testet
 test('The stack should be empty when popping from stack in the beginning', async () => {
 	let stack = await driver.findElement(By.id('top_of_stack')).getText();
-	expect(stack).toEqual("undefined") // Fel med flit
+	expect(stack).toEqual("n/a") // Åtgärdat, istället för undefined ska det vara 'n/a'
 });
